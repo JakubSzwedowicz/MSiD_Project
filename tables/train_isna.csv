@@ -1,0 +1,12 @@
+,N/D,Data types
+PassengerId,0,Numerical Ratio
+Survived,0,Cathegorical Nominal
+Pclass,0,Cathegorical Ordinal
+Sex,0,Cathegorical Nominal
+Age,163,Numerical Ratio
+SibSp,0,Numerical Interval
+Parch,0,Numerical Interval
+Ticket,0,Numerical Interval
+Fare,0,Numerical Ratio
+Cabin,615,Text data
+Embarked,1,Cathegorical Nominal
